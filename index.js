@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Mamah Erreniel","Join Server Discordnya Mamah","Korban #hostpilihkasih-nya mamah","Soba","Raihan","Ashdaff"];
 
 
 let currentIndex = 0;
